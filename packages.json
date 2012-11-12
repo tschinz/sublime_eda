@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+    {
+      "name": "Sublime Text UCF",
+      "description": "UCF Package for Sublime Text 2",
+      "author": "tschinz",
+      "homepage": "https://github.com/tschinz",
+      "last_modified": "2012-11-12 12:23:31",
+      "platforms": {
+        "*": [
+          {
+            "version": "0.1",
+            "url": "https://nodeload.github.com/tschinz/sublime_ucf/zipball/master"
+          }
+        ]
+      }
+    }
+  ]
+}
