@@ -1,7 +1,10 @@
-[Sublime UCF](http://zawiki.begincoding.net/~zas/zawiki/doku.php/tschinz:sublimetext#ucf)
+[Sublime Constraints](http://zawiki.begincoding.net/~zas/zawiki/doku.php/tschinz:sublimetext#constraints)
 ================================
 
-UCF Package for Sublime Text 2 based on [UCF.tmBundle](https://bitbucket.org/Clams/sublimesystemverilog/src/140f678dab41?at=default) for TextMate
+This is a set of 3 Sublime Text 2 Packages to support the file types `ucf`, `pdc`, `sdc`. These are all FPGA based constraint files.
+- UCF Package for Sublime Text 2 based on [UCF.tmBundle](https://bitbucket.org/Clams/sublimesystemverilog/src/140f678dab41?at=default) for TextMate
+- PDC Package
+- SDC Package
 
 ---
 
