@@ -1,4 +1,4 @@
-[Sublime EDA](http://zawiki.dyndns.org/doku.php/tschinz:sublimetext#eda)
+[Sublime EDA](http://zawiki.zapto.org/doku.php/tschinz:sublimetext#eda)
 ================================
 
 This is a set of 3 Sublime Text 2 Packages to support the file types `ucf`, `pdc`, `vhdl`. These are all FPGA based constraint files.
