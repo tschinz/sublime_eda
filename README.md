@@ -1,9 +1,12 @@
 [Sublime EDA](http://zawiki.zapto.org/doku.php/tschinz:sublimetext#eda)
 ================================
 
-This is a set of 3 Sublime Text 2 Packages to support the file types `ucf`, `pdc`, `vhdl`. These are all FPGA based constraint files.
+This is a set of 3 Sublime Text 2 Packages to support the file types `ucf`, `pdc`, `sdc` and `vhdl`. These are all FPGA based constraint files.
 - UCF Package for Sublime Text 2 based on [UCF.tmBundle](https://bitbucket.org/Clams/sublimesystemverilog/src/140f678dab41?at=default) for TextMate
 - PDC Package
+- SCD Package
+  - Supports Synopsys Constrains Syntax
+  - Supports Altera Specific Constraints Syntax
 - VHDL Package for Sublime Text 2 fork of [VHDL Package](https://github.com/yangsu/sublime-vhdl) for Sublime Text 2
 
 ---

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+    {
+      "name": "Sublime Text SDC",
+      "description": "SDC Package for Sublime Text 2",
+      "author": "tschinz",
+      "homepage": "https://github.com/tschinz",
+      "last_modified": "2014-10-20 12:23:31",
+      "platforms": {
+        "*": [
+          {
+            "version": "0.1",
+            "url": "https://github.com/tschinz/sublime_constraints/zipball/master/SDC"
+          }
+        ]
+      }
+    }
+  ]
+}
